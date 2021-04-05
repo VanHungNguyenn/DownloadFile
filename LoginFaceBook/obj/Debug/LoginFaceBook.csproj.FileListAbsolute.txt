@@ -1,0 +1,14 @@
+D:\project2021\CSharp\LoginFaceBook\LoginFaceBook\bin\Debug\LoginFaceBook.exe.config
+D:\project2021\CSharp\LoginFaceBook\LoginFaceBook\bin\Debug\LoginFaceBook.exe
+D:\project2021\CSharp\LoginFaceBook\LoginFaceBook\bin\Debug\LoginFaceBook.pdb
+D:\project2021\CSharp\LoginFaceBook\LoginFaceBook\bin\Debug\Otp.NET.dll
+D:\project2021\CSharp\LoginFaceBook\LoginFaceBook\bin\Debug\WebDriver.dll
+D:\project2021\CSharp\LoginFaceBook\LoginFaceBook\bin\Debug\WebDriver.xml
+D:\project2021\CSharp\LoginFaceBook\LoginFaceBook\obj\Debug\LoginFaceBook.csprojAssemblyReference.cache
+D:\project2021\CSharp\LoginFaceBook\LoginFaceBook\obj\Debug\LoginFaceBook.Form1.resources
+D:\project2021\CSharp\LoginFaceBook\LoginFaceBook\obj\Debug\LoginFaceBook.Properties.Resources.resources
+D:\project2021\CSharp\LoginFaceBook\LoginFaceBook\obj\Debug\LoginFaceBook.csproj.GenerateResource.cache
+D:\project2021\CSharp\LoginFaceBook\LoginFaceBook\obj\Debug\LoginFaceBook.csproj.CoreCompileInputs.cache
+D:\project2021\CSharp\LoginFaceBook\LoginFaceBook\obj\Debug\LoginFaceBook.csproj.CopyComplete
+D:\project2021\CSharp\LoginFaceBook\LoginFaceBook\obj\Debug\LoginFaceBook.exe
+D:\project2021\CSharp\LoginFaceBook\LoginFaceBook\obj\Debug\LoginFaceBook.pdb
